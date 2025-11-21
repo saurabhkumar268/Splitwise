@@ -1,0 +1,81 @@
+Enter name: Dhruv
+Added Dhruv.
+Enter name: Vaidant
+Added Vaidant.
+Enter name: Shivansh
+Added Shivansh.
+Enter name: Krishna
+Added Krishna.
+Enter name: done
+
+==============================
+       MENU OPTIONS
+==============================
+1. Add an Expense
+2. View Balances (Who owes what)
+3. View Transaction History
+4. Add a New Friend
+5. Exit
+
+Enter choice (1-5): 1
+
+---  Add Expense ---
+Who paid the bill? 985
+ Error: 985 is not in the group list.
+
+==============================
+       MENU OPTIONS
+==============================
+1. Add an Expense
+2. View Balances (Who owes what)
+3. View Transaction History
+4. Add a New Friend
+5. Exit
+
+Enter choice (1-5): 1
+
+---  Add Expense ---
+Who paid the bill? Vaidant
+What was this for? (e.g. Pizza): Dinner
+How much did Vaidant pay? 1350
+ Added! Everyone's share is: 270.0
+
+==============================
+       MENU OPTIONS
+==============================
+1. Add an Expense
+2. View Balances (Who owes what)
+3. View Transaction History
+4. Add a New Friend
+5. Exit
+
+Enter choice (1-5): 3
+
+--- Transaction History ---
+1. Vaidant paid 1350.0 for Dinner. (Each person owes 270.0)
+
+==============================
+       MENU OPTIONS
+==============================
+1. Add an Expense
+2. View Balances (Who owes what)
+3. View Transaction History
+4. Add a New Friend
+5. Exit
+
+Enter choice (1-5): 4
+Enter new friend's name: Mukhrjee
+ Mukhrjee has been added to the group!
+Note: They will only split future bills, not past ones.
+
+==============================
+       MENU OPTIONS
+==============================
+1. Add an Expense
+2. View Balances (Who owes what)
+3. View Transaction History
+4. Add a New Friend
+5. Exit
+
+Enter choice (1-5): 5
+Exiting Splitwise... Goodbye!
